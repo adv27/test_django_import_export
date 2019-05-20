@@ -10,6 +10,7 @@ autopep8 = "*"
 [packages]
 django = "*"
 django-import-export = "*"
+et-xmlfile = "*"
 
 [requires]
 python_version = "3.6"

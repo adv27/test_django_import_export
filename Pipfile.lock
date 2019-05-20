@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "8b34d43657da6c5469327b7110ec28a03dacc9bbf9f15db7fd5a84d8d949a708"
+            "sha256": "4f2db5ae6ff0e303fcc096bbb38a464fde04c8752c26514fa3f74763231a053a"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -56,6 +56,7 @@
             "hashes": [
                 "sha256:614d9722d572f6246302c4491846d2c393c199cfa4edc9af593437691683335b"
             ],
+            "index": "pypi",
             "version": "==1.0.1"
         },
         "jdcal": {
